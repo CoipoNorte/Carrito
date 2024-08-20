@@ -1,0 +1,39 @@
+{
+    "listProducts": [
+        {
+            "title": "Super Heroe Duck",
+            "subtitle": "11.000",
+            "text": "Super Heroe Duck!!!",
+            "stock": "4",
+            "img": "https://dojiw2m9tvv09.cloudfront.net/60480/product/X_1809-07245.png?84&time=1724047840"
+        },
+        {
+            "title": "Chef Duck",
+            "subtitle": "12.000",
+            "text": "¡La cena está lista! Este pato chef gourmet es famoso en el mundo de Rubberduck por su mente creativa, especialmente cuando se trata de su receta personal de ducksweetsourets. ¿Eso no excita tu paladar? Gran regalo para (aspirantes) chefs.",
+            "stock": "5",
+            "img": "https://dojiw2m9tvv09.cloudfront.net/60480/product/X_1898-09335.png?84&time=1724047842"
+        },
+        {
+            "title": "Birthday Girl Duck",
+            "subtitle": "13.000",
+            "text": "Deseos de cumpleaños felicies! Llevando presente y pastel, el pato cumpleañero de niña es muy bienvenido en cualquier fiesta de cumpleaños. Un bonito y pequeño regalo para las jóvenes y viejas cumpleañeras, también es un mensajero óptimo de regalos de poco dinero.",
+            "stock": "10",
+            "img": "https://dojiw2m9tvv09.cloudfront.net/60480/product/X_1981-04972.png?84&time=1724047843"
+        },
+        {
+            "title": "Rainbow Duck",
+            "subtitle": "14.000",
+            "text": "¡El Pato en colores del arcoíris trae más colores al mundo y difunde nuestro lema donde quiera que vaya! El pato de goma arcoíris llena tu día de colores para alegrar tu día y bañera.",
+            "stock": "7",
+            "img": "https://dojiw2m9tvv09.cloudfront.net/60480/product/X_2006-02387.png?84&time=1724047845"
+        },
+        {
+            "title": "Hair Stylist Duck",
+            "subtitle": "15.000",
+            "text": "Esta patita estilista te dejará destellante con sus peinados de moda.",
+            "stock": "12",
+            "img": "https://dojiw2m9tvv09.cloudfront.net/60480/product/X_2047-06037.png?84&time=1724047848"
+        }
+    ]
+}
