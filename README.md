@@ -6,5 +6,5 @@ Ejercicio de React para Jovenes Programadores
 **Titulo:** Super Heroe Duck  
 **Precio:** 11.991  
 **Descripcion:** Super Heroe Duck!!!
-**Stock:** 4
 
+**Stock:** 4
